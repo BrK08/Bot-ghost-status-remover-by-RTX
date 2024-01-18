@@ -28,15 +28,15 @@ const client = new Client({
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => {
-  res.send('YaY Your Bot Status Changed✨');
+  res.send('Yaşasın,Botunun durumu değişti✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to BrK: http://localhost:${port}`);
+  console.log(`🔗 Powered By BrK`);
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["Berkin Hayalleriyle oynuyor,D💙,👑 BrK"];
 
 
 let currentIndex = 0;
