@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jugando RicardoLandia 😎"];
+const statusMessages = ["UniverSalBot Music Bot v1.1"];
 
 
 let currentIndex = 0;
