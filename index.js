@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["By BrK , I l0VE SPACE🌌"];
+const statusMessages = ["By BrK 🎶"];
+const statusMessages = ["Turkish Patch Coming Soon ◌"];
 
 
 let currentIndex = 0;
